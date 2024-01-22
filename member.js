@@ -11,4 +11,9 @@ function skillsMember() {
         </div>
         <div class="member__info">
           <h2 class="member__name">{{member.name}}</h2>
-          <p class="member__title">{{member.title}}
+          <p class="member__title">{{member.title}}</p>
+        </div>
+      </div>
+    `
+  };
+}
